@@ -102,17 +102,6 @@ La regularización ayudó a estabilizar el modelo, pero no produjo mejoras en la
 - **Epoch 8:** loss = 0.3260, accuracy = 0.9000
 - **Epoch 9:** loss = 0.3262, accuracy = 0.9000
 
-Epoch 1: loss = 1.0599, accuracy = 0.8975
-Epoch 2: loss = 0.3271, accuracy = 0.9000
-Epoch 3: loss = 0.3268, accuracy = 0.9000
-Epoch 4: loss = 0.3265, accuracy = 0.9000
-Epoch 5: loss = 0.3261, accuracy = 0.9000
-Epoch 6: loss = 0.3259, accuracy = 0.9000
-Epoch 7: loss = 0.3255, accuracy = 0.9000
-Epoch 8: loss = 0.3254, accuracy = 0.9000
-Epoch 9: loss = 0.3253, accuracy = 0.9000
-
-
 ### **Análisis**
 
 Los resultados muestran que, aunque se realizaron múltiples mejoras en la arquitectura, optimización y regularización del modelo, **la precisión sigue estancada en el 90%**. Esto sugiere que el problema podría no estar completamente relacionado con la capacidad del modelo o las técnicas aplicadas, sino con limitaciones inherentes al conjunto de datos o los siguientes factores:
